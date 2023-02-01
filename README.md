@@ -14,7 +14,7 @@ Fish plugin with comfortable shortcuts for directory listing using [exa](https:/
 Using [fisher](https://github.com/jorgebucaran/fisher) plugin manager
 
 ```shell
-$ fisher add wawa19933/fish-exa
+$ fisher install wawa19933/fish-exa
 ```
 
 or manually copy:
